@@ -15,11 +15,11 @@ A self taught web developer and I am very passionate about building new things s
 
 ## Hobbies:
 
-1.🖥️ Programming
-2.⚽ Football
-3.🍳 Cooking
-4.🏃‍♂️ Workout
-5.🌐 Exploring the Web
+1. 🖥️ Programming
+2. ⚽ Football
+3. 🍳 Cooking
+4. 🏃‍♂️ Workout
+5. 🌐 Exploring the Web
 
 ## Contact me here
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Saurav017) 
