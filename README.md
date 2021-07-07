@@ -7,11 +7,9 @@ A self taught web developer and I am very passionate about building new things s
 
 ### Skills:
 
-👉 HTML
-👉 CSS
-👉 JS
-👉 Adobe XD
-👉 Version Control
+💻 HTML, CSS, JS
+🖍️ Adobe XD
+🛃 Version Control
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Saurav017) 
