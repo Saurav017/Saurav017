@@ -11,6 +11,7 @@ A self taught web developer and I am very passionate about building new things s
 2. 🖍️ Adobe XD
 3. 🛃 Version Control
 
+## Projects:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Saurav017) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/s_a_u_r_av/) 
