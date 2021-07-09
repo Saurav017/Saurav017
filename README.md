@@ -9,12 +9,13 @@ A self taught Front End Web developer and I am very passionate about building ne
 
 
 ## Projects:
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 ## Hobbies:
 1. 🖥️ Programming
 2. ⚽ Football
-3. 🍳 Cooking
-4. 🏃‍♂️ Workout
-5. 🌐 Exploring the Web
+3. 🏃‍♂️ Workout
+4. 🌐 Exploring the Web
+5. 🎦 Watching OTT Contents
 
 ## Contact me here
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Saurav017) 
@@ -22,6 +23,6 @@ A self taught Front End Web developer and I am very passionate about building ne
             [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SauravPurohit4)  
 
 
-<h3 align="left">Support:</h3>
+## Buy me a Coffee
 <p><a href="https://www.buymeacoffee.com/Saurav017"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Saurav017" /></a></p><br><br>
 
