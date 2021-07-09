@@ -10,9 +10,7 @@ A self taught web developer and I am very passionate about building new things s
 <p><a href="https://www.buymeacoffee.com/Saurav017"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Saurav017" /></a></p><br><br>
 
 ## Projects:
-
 ## Hobbies:
-
 1. 🖥️ Programming
 2. ⚽ Football
 3. 🍳 Cooking
