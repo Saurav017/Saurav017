@@ -9,8 +9,7 @@ A self taught Front End Web developer and I am very passionate about building ne
 
 
 ## Projects:
-<a href=""><img src="![Screenshot 2021-07-09 162455](https://user-images.githubusercontent.com/60293533/125069037-d61edc00-e0d3-11eb-9e31-46ffa8018d51.png)
-" alt="Neuromorphic Keyboard" width= 150px></a>
+
 ## Hobbies:
 1. 🖥️ Programming
 2. ⚽ Football
