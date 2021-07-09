@@ -10,7 +10,13 @@ A self taught Front End Web developer and I am very passionate about building ne
 
 ## Projects:
 
-<img src="../master/New?20Folder/gym.png" width="100"></img>
+![Card](https://github.com/Saurav017/Saurav017/blob/main/New%20folder/card.png)
+![Gym Website](https://github.com/Saurav017/Saurav017/blob/main/New%20folder/gym.png)
+![Keyboard](https://github.com/Saurav017/Saurav017/blob/main/New%20folder/keyboard.png)
+![Netflix Landing Page](https://github.com/Saurav017/Saurav017/blob/main/New%20folder/netflix.png)
+![NGO Website](https://github.com/Saurav017/Saurav017/blob/main/New%20folder/ngo.png)
+![Quiz](https://github.com/Saurav017/Saurav017/blob/main/New%20folder/quiz.png)
+
 ## Hobbies:
 1. 🖥️ Programming
 2. ⚽ Football
