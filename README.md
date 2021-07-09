@@ -1,5 +1,4 @@
-
-![Front End Developer]![image](https://user-images.githubusercontent.com/60293533/125061776-512fc480-e0cb-11eb-86ca-cdc1953bcd4e.png)
+![image](https://user-images.githubusercontent.com/60293533/125061776-512fc480-e0cb-11eb-86ca-cdc1953bcd4e.png)
 ### Hi there 👋, I'm Saurav
 
 A self taught web developer and I am very passionate about building new things so I create interactive and responsive webpages on a daily basis using HTML, CSS and Javascript. Committed to learning and self-development to achieve better results. I am always open to challenges and constructive feedback. 
