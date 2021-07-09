@@ -10,7 +10,7 @@ A self taught Front End Web developer and I am very passionate about building ne
 
 ## Projects:
 <a href=""><img src="![Screenshot 2021-07-09 162455](https://user-images.githubusercontent.com/60293533/125069764-cce23f00-e0d4-11eb-9a6c-052c8f080eb7.png)
-" alt=""></a>
+" alt="" width=:"200px"></a>
 ## Hobbies:
 1. 🖥️ Programming
 2. ⚽ Football
